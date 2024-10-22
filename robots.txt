@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uriaceldo.github.io/uriaceldo.txt.gz
+Sitemap: https://uriaceldo.github.io/app/uriaceldo.txt.gz
+Sitemap: https://uriaceldo.github.io/assets/uriaceldo.txt.gz
+Sitemap: https://uriaceldo.github.io/css/uriaceldo.txt.gz
+Sitemap: https://uriaceldo.github.io/includes/uriaceldo.txt.gz
+Sitemap: https://uriaceldo.github.io/item/uriaceldo.txt.gz
+Sitemap: https://uriaceldo.github.io/src/uriaceldo.txt.gz
